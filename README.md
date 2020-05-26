@@ -1,6 +1,6 @@
 # Making Bumblebee AV
 
-<img src="images/semiYellow.png" width=200>
+<img src="images/semiYellow.png">
 
 You will need one <a href="https://thepihut.com/collections/raspberry-pi/products/raspberry-pi-zero-w">Raspberry Pi Zero W</a> and
 <a href="https://thepihut.com/products/motozero">MotoZero motor controller</a> for each vehicle
