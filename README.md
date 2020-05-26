@@ -1,6 +1,6 @@
 # Making Bumblebee AV
 
-<img src="images/semiYellow.png">
+<img src="images/semiYel.png">
 
 You will need one <a href="https://thepihut.com/collections/raspberry-pi/products/raspberry-pi-zero-w">Raspberry Pi Zero W</a> and
 <a href="https://thepihut.com/products/motozero">MotoZero motor controller</a> for each vehicle
@@ -18,8 +18,9 @@ so you can connect to the Raspberry Pi GPIO pins after you install Motozero.
 
 You also need LEDs if you want to install brakelights and at least two <a href="https://www.amazon.com/RobotDyn-tracking-Arduino-projects-Digital/dp/B077SQ1NN4/ref=asc_df_B077SQ1NN4/?tag=&linkCode=df0&hvadid=380200604373&hvpos=1o4&hvnetw=g&hvrand=6984096978951811916&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031390&hvtargid=pla-814806945521&ref=&adgrpid=82910274452&th=1">black and white path followers</a> for each vehicle. 
 
-<img src="images/linefollower2.png" width=150>
-<img src="images/linefollower2.png" width=150>
+<img src="images/linefollower2.png">
+
+<img src="images/linefollower2.png">
 
 If you like kits, the <a href="https://thepihut.com/products/camjam-edukit-3-robotics">Camjam Edukit #3 - Robotics</a>
 contains everything you need plus an obstacle avoidance sensor for future projects.
@@ -36,7 +37,7 @@ Each line follower connects VCC to 3v power, GND to ground, and the DC input cha
 Be careful not to use GPIO pins already being used by Motozero or you may get unexpected results.  
 Page 26 of the <a href="MotoZero_User_Guide_1.2.pdf">Motozero User Guide</a> explains the motor controller wiring.
 
-<img src="images/wiringPlatooners.png" width=700>
+<img src="images/wiringPlatooners.png">
 
 <b>Interacting with Raspberry Pi Zero W</b>
 
