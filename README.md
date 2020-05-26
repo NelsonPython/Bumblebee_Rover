@@ -4,7 +4,9 @@
 
 You will need one <a href="https://thepihut.com/collections/raspberry-pi/products/raspberry-pi-zero-w">Raspberry Pi Zero W</a> and
 <a href="https://thepihut.com/products/motozero">MotoZero motor controller</a> for each vehicle
+
 <img src="images/raspberryPiZero.png" width=300>
+
 <img src="images/motozero2.png" width=300>
 
 The Raspberry Pi Mega Kit includes a Raspberry Pi Zero W with a GPIO header attached so you don't have to solder.  
