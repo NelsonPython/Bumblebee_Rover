@@ -1,6 +1,8 @@
-# Making Bumblebee AV
+<h1>Making Bumblebee AV</h1>
 
 <img src="images/semiYel.png">
+
+
 
 Buy <a href="https://thepihut.com/collections/raspberry-pi/products/raspberry-pi-zero-w">a Raspberry Pi Zero W</a> and
 <a href="https://thepihut.com/products/motozero">a MotoZero motor controller</a>
