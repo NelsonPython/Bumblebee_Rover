@@ -1,8 +1,6 @@
-<h1>Making Bumblebee AV</h1>
+<h1>Making Bumblebee Rover</h1>
 
-<b>Bumblebee AV is a miniature autonomous vehicle designed to be an affordable toolkit introducing youth or adults to robots and artificial intelligence</b>
-
-<img src="images/semiYel.png">
+<b>Bumblebee is a miniature rover designed to carry sensor devices and cameras.  Give Bumblebee a goal and it will generate a plan and drive along a path.</b>
 
 Buy <a href="https://thepihut.com/collections/raspberry-pi/products/raspberry-pi-zero-w">a Raspberry Pi Zero W</a> and
 <a href="https://thepihut.com/products/motozero">a MotoZero motor controller</a>
