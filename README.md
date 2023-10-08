@@ -50,4 +50,4 @@ You can connect remotely using Secure Shell (SSH) but you must enable SSH.  Clic
 
 <h3>Taking a trip</h3>
 
-<a href="motors.md">Test driving Bumblebee AV</a>
+<a href="motors.md">Test driving Bumblebee Rover</a>
