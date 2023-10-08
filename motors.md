@@ -1,4 +1,4 @@
-<h1>Test driving Bumblebee AV</h1>
+<h1>Test driving Bumblebee Rover</h1>
 
 The wires that connect the motor controller to the motors have been color-coded.  Use this guide to check the wiring if any of the wheels do not turn or they turn in the wrong direction
 
